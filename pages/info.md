@@ -14,7 +14,7 @@ Le lezioni del corso si svolgono:
 * Martedì h. 14.00-15.45 
 * Venerdì h. 11.00-12.45 
 
-Le lezioni avranno inizio martedì 5-10-2020
+Le lezioni avranno inizio martedì 5-10-2021
 
 ### Organizzazione della didattica
 

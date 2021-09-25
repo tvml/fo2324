@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/fo2122/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/fo2122/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/fo2122/</id>
+	<title>Fondamenti di Informatica: modulo 1</title>
+	<updated>2021-09-25T12:24:00+02:00</updated>
+
+	<subtitle>Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Giorgio Gambosi</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/fo2122/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/fo2122/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.1.1">Jekyll</generator>
+
+	
+</feed>

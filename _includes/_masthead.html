@@ -1,0 +1,120 @@
+{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
+
+	<div id="masthead-no-image-header">
+		<div class="row">
+			<div class="small-12 columns">
+				<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<p style="text-align:center;">
+					<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.image.title }}" alt="{{ site.title }} – {{ site.slogan }}">
+				</p>
+				</a>
+			</div><!-- /.small-12.columns -->
+		</div><!-- /.row -->
+	</div><!-- /#masthead -->
+
+{% elsif page.header.title %}
+
+	<div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
+		<div class="row">
+			<div class="small-12 columns">
+				<div class="masthead-title">{{ page.header.title }}</div>
+			</div><!-- /.small-12.columns -->
+		</div><!-- /.row -->
+	</div><!-- /#masthead -->
+	
+	{% if page.header.caption_url && page.header.caption %}
+	<div class="masthead-caption">
+		<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+	</div>
+	{% elsif page.header.caption %}
+	<div class="masthead-caption">
+		{{ page.header.caption }}
+	</div>
+	{% endif %}
+
+{% elsif page.header.image_fullwidth %}
+
+	<div id="masthead">
+		<div class="row">
+			<div class="small-12 columns">
+				<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
+					<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.header.image_fullwidth }}" alt="{{ site.title }} – {{ site.slogan }}">
+				</a>
+			</div><!-- /.small-12.columns -->
+		</div><!-- /.row -->
+	</div><!-- /#masthead -->
+	
+	{% if page.header.caption_url && page.header.caption %}
+	<div class="masthead-caption">
+		<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+	</div>
+	{% elsif page.header.caption %}
+	<div class="masthead-caption">
+		{{ page.header.caption }}
+	</div>
+	{% endif %}
+
+{% elsif page.header.pattern %}
+
+<div id="masthead-with-pattern" style="background: url('{{ site.urlimg }}/{{ page.header.pattern }}')">
+	<div class="row">
+		<figure class="small-12 columns">
+			<img src="{{ site.urlimg }}/{{ page.header.image }}" alt="{{ site.title }}">
+		</figure><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+{% endif %}
+
+
+
+
+
+{% elsif page.header.background-color %}
+<!-- pagina iniziale  -->
+<div id="masthead-with-background-color" style="background: #7c7c7c;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
+	<div class="row">
+			<div class="small-12 columns">
+			<div class="masthead-title"  style="padding:0px"><font color="white" size="6">
+				Fondamenti di Informatica
+				</font>
+				</div>
+				<div id="cdl" class="masthead-title" style="padding:0px; font-size: large; color: #ffc800;">
+				<font color="#ffc800">
+				CdL in Informatica - Universita' di Roma Tor Vergata
+				</font>
+				</div>
+				<div id="name" class="masthead-title" style="padding:0px
+    font-size: medium;"><font color="#81cac9">
+				Prof. Giorgio Gambosi - a.a. {{site.aa}}
+				</font>
+				</div>
+			          <p style="text-align:center;" style="margin-top:2cm;">
+					<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.header.image }}" alt="{{ site.title }} – {{ site.slogan }}">
+			          </p>
+			</div>
+	</div>
+</div>
+
+{% elsif page.header == false %}
+<!-- sezioni -->
+<div id="masthead-with-background-color"  style="background: #7c7c7c;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
+	<div class="row">
+		<div id="page-title" class="small-11 columns" style="color: white;
+    font-size: 1cm;
+    height: auto;">
+		<img style="width:90px;height:90px;vertical-align:middle;border-radius: 10px; margin-right: 40px;" src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.side_image}}">
+			{{page.title}}
+		</div>
+	</div>
+</div>
+
+{% endif %}

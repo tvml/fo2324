@@ -1,0 +1,21 @@
+- menu_name: "Contatti"
+
+- name: "Mail"
+  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20FO"
+  title: "Mail"
+  
+- name: "Teams"
+  url: "https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"
+  title: "Teams"
+
+#- name: "Twitter"
+#  url: "twitter.com/tvmlclass"
+#  title: "Twitter"
+
+#- name: "Atom"
+#  url: "/atom.xml"
+#  title: "Subscribe to Atom Feed"
+
+#- name: "sitemap.xml"
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"

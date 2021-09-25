@@ -1,0 +1,64 @@
+#
+#   Navigation to the left › side: left
+#
+- title: start
+  url: "/"
+  side: left
+  
+- title: informazioni
+  url: "/info/"
+  side: left
+  
+- title: programma
+  url: "/programma/"
+  side: left
+  
+- title: comunicazioni
+  url: "/comunicazioni/"
+  side: left
+  
+- title: lucidi
+  url: "/lucidi/"
+  side: left
+  
+- title: codici
+  url: "/codici/"
+  side: left
+  
+- title: lezioni
+  url: "/lezioni/"
+  side: left
+  
+- title: store
+  url: "/store/"
+  side: left
+  
+#- title: Bibliografia
+#  url: "/biblio/"
+#  side: left
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+
+#
+#   Navigation to the right › side: right
+#
+#- title: "Info"
+#  url: "/info/"
+#  side: left
+
+#- title: "Search"
+#  url: "/search/"
+#  side: right
+
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right

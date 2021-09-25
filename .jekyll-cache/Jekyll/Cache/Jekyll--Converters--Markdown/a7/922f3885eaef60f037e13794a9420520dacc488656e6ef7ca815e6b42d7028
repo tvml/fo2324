@@ -1,0 +1,66 @@
+I"�<h3 id="dove-e-quando">Dove e quando</h3>
+
+<p>Le lezioni del corso si svolgono:</p>
+
+<ul>
+  <li>Lunedì h. 11.00-12.45</li>
+  <li>Mercoledì h. 11.00-12.45</li>
+</ul>
+
+<p>Le lezioni avranno inizio lunedì 5-10-2020</p>
+
+<h3 id="organizzazione-della-didattica">Organizzazione della didattica</h3>
+
+<p>Il corso si svolge in modalità on-line, su piattaforma Teams a <a href="https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e">questo indirizzo</a>.</p>
+
+<p>La didattica sarà tendenzialmente organizzata in modalità <em>flipped classroom</em>, per cui i contenuti saranno preventivamente proposti dal docente mediante video lezioni registrate sotto forma di <em>screencast</em> effettuati sulla base dei lucidi del corso. Gli screencast saranno messi a disposizione degli studenti, qualche giorno prima della lezione dedicata a tali contenuti, nella repository del canale Teams del corso stesso; i lucidi saranno disponibili nella medesima repository, oltre che su questo sito.</p>
+
+<p>Le lezioni saranno quindi dedicate a:</p>
+<ul>
+  <li>una rapida nuova esposizione dei contenuti esposti negli screencast precedentemente messi a disposizione</li>
+  <li>la discussione sui contenuti trattati, a partire da sollecitazioni e domande da parte degli studenti</li>
+  <li>esercizi e considerazioni ulteriori</li>
+</ul>
+
+<p>Si invitano caldamente gli studenti a sfruttare al meglio le caratteristiche di questa modalità didattica assistendo con attenzione agli screencast man mano messi a disposizione, in modo tale da utilizzare nel modo migliore la possibilità di chiarimenti e approfondimenti, anche in termini di esercizi, offerti dalle lezioni.</p>
+
+<p>In questa edizione del corso, si prevede di considerare, mediante presentazione da parte del docente ed assegnazione di compiti a gruppi di studenti e studentesse interessati, l’implementazione nel linguaggio Python di metodi ed algoritmi presentati nel corso. La sezione <em>Codici</em> del sito è dedicata a fornire accesso alla versione più recente di tale codice, oltre che alla sua documentazione.</p>
+
+<h4 id="ricevimento">Ricevimento</h4>
+
+<p>Il ricevimento studenti avviene secondo due modalità:</p>
+
+<ul>
+  <li>
+    <p>tendenzialmente, al termine di tutte le lezioni su Teams, per gli studenti che lo richiedano</p>
+  </li>
+  <li>
+    <p>mediante appuntamento concordato su Teams, da richiedere eventualmente via mail o sulla chat Teams</p>
+  </li>
+</ul>
+
+<h3 id="esami">Esami</h3>
+
+<h4 id="appelli-di-esame">Appelli di esame</h4>
+
+<p>Sono previsti due appelli di esame per ogni sessione: per ogni sessione eccetto la prima (Febbraio) si prevede, per il singolo studente, la possibilità si sostenere l’esame in uno solo dei due appelli, a sua scelta. Tale limitazione non sussiste, come accennato sopra, per la sessione estiva anticipata (Febbraio 2021).</p>
+
+<p>L’iscrizione alla prova di esame del modulo 1 non richiede l’utilizzo della piattaforma Delphi. Le modalità di iscrizione verranno comunicate a tempo debito.</p>
+
+<h4 id="modalità-di-esame">Modalità di esame</h4>
+
+<p>Le modalità di esame saranno dipendenti dalla situazione pandemica e dalle indicazioni dell’Ateneo.</p>
+
+<h3 id="materiale-didattico">Materiale didattico</h3>
+
+<p>Il testo di riferimento principale è il seguente:
+<code class="language-plaintext alert highlighter-rouge">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura "Linguaggi, Modelli, Complessità", Franco Angeli 2014</code></p>
+
+<p>Un ulteriore testo, che sarà utilizzato nella trattazione del parsing, è <code class="language-plaintext alert highlighter-rouge">A. Aho, M. Lam, R. Sethi, J.D. Ullman "Compilers. Principles, Techniques, and Tools", Pearson 2007</code>, tradotto in italiano come ` “Compilatori. Principi, tecniche e strumenti”, Pearson 2019`</p>
+
+<p>Sarà inoltre, ove necessario, suggerito materiale sull’argomento liberamente disponibile sul web.</p>
+
+<p>Infine, sarà reso disponibile il materiale didattico preparato dal docente,
+comprendente copia dei lucidi utilizzati nel corso delle lezioni ed ulteriori
+note su argomenti specifici.</p>
+:ET

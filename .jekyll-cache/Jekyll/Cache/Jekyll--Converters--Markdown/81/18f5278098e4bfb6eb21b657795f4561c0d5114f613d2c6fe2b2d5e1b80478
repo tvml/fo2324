@@ -1,0 +1,37 @@
+I"t<h2 id="programma-tentativo">Programma tentativo</h2>
+
+<ul>
+  <li>Introduzione al corso: algoritmi, problemi, modelli di calcolo</li>
+  <li>Caratteristiche elementari dei linguaggi</li>
+  <li>Grammatiche di Chomsky e loro gerarchia</li>
+  <li>Generazione ed accettazione di linguaggi</li>
+  <li>Riconoscimento di linguaggi: automi, configurazioni, computazioni</li>
+  <li>Automi a stati finiti deterministici e non deterministici; equivalenza tra essi</li>
+  <li>Grammatiche di tipo 3 e loro equivalenza con gli ASF</li>
+  <li>Espressioni regolari e loro equivalenza con ASF e grammatiche regolari</li>
+  <li>Pumping lemma per i linguaggi regolari</li>
+  <li>Proprietà di chiusura dei linguaggi regolari</li>
+  <li>Predicati decidibili sui linguaggi regolari</li>
+  <li>
+    <p>Automi a stati finiti minimi e minimizzazione di ASF</p>
+  </li>
+  <li>Linguaggi context free</li>
+  <li>Grammatiche di tipo 2: forme ridotte e forme normali (Chomsky, Greibach)</li>
+  <li>Proprietà di chiusura dei linguaggi CF</li>
+  <li>Decidibilità di predicati su linguaggi CF</li>
+  <li>Pumping lemma per i linguaggi context free</li>
+  <li>Automi a pila e linguaggi context free</li>
+  <li>Automi a pila deterministici</li>
+  <li>Ambiguità e sua indecidibilità</li>
+  <li>
+    <p>L’algoritmo CYK</p>
+  </li>
+  <li>Struttura di un compilatore: analisi lessicale e sintattica, generazione del codice</li>
+  <li>Analizzatori lessicali (scanner)</li>
+  <li>Analizzatori sintattici (parser)</li>
+  <li>Parser a discesa ricorsiva</li>
+  <li>Parser top-down e linguaggi LL(k)</li>
+  <li>Parser bottom-up e linguaggi LR(k)</li>
+  <li>Precedenza di operatori</li>
+</ul>
+:ET

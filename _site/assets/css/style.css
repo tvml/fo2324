@@ -1,0 +1,40 @@
+.service-item{
+    color: #fff69d;
+}
+
+#contacts a {
+        color: #ffc800;
+    }
+    
+#thanks-to a {
+        color: #4dbbb8;
+    }
+    
+#cdl {
+    color: #ffc800;
+    font-size: large;
+}
+
+#name {
+    color: #81cac9;
+    font-size: medium;
+}
+
+#masthead-with-background-color {
+    background: #7c7c7c;
+    padding-left:0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+}
+
+#masthead-with-text {
+    background: #cccccc;
+}
+
+#page-title {
+    color: white;
+    font-size: 1cm;
+    height: auto;
+}

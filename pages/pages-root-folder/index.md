@@ -7,7 +7,7 @@
 layout: frontpage
     
 header:
-    image: "Turing_Machine.jpg"
+    image: "tm.jpg"
     background-color: "#555555"
     caption: Macchina di Turing
     caption_url: https://unsplash.com/

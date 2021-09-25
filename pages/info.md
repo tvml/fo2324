@@ -11,25 +11,25 @@ header: no
 
 Le lezioni del corso si svolgono:
 
-* Lunedì h. 11.00-12.45 
-* Mercoledì h. 11.00-12.45 
+* Martedì h. 14.00-15.45 
+* Venerdì h. 11.00-12.45 
 
-Le lezioni avranno inizio lunedì 5-10-2020
+Le lezioni avranno inizio martedì 5-10-2020
 
 ### Organizzazione della didattica
 
-Il corso si svolge in modalità on-line, su piattaforma Teams a [questo indirizzo](https://teams.microsoft.com/l/channel/19%3ac48d282177fc4648b727e285d0faefbe%40thread.tacv2/1%2520modulo?groupId=83c1dc93-2104-416d-b327-88ce039ef14c&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e).
+Il corso si svolge contemporaneamente in presenza e on-line, su piattaforma Teams a [questo indirizzo](https://teams.microsoft.com/l/channel/19%3abc0238b251fe4421b68944475b03701f%40thread.tacv2/Lezioni?groupId=d4c5d008-9873-4b48-bbb9-9b3481d37e8e&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e).
 
 La didattica sarà tendenzialmente organizzata in modalità *flipped classroom*, per cui i contenuti saranno preventivamente proposti dal docente mediante video lezioni registrate sotto forma di *screencast* effettuati sulla base dei lucidi del corso. Gli screencast saranno messi a disposizione degli studenti, qualche giorno prima della lezione dedicata a tali contenuti, nella repository del canale Teams del corso stesso; i lucidi saranno disponibili nella medesima repository, oltre che su questo sito.
 
-Le lezioni saranno quindi dedicate a: 
+Le lezioni, in presenza e accessibili on-line sulla piattaforma Teams, saranno quindi dedicate a: 
 - una rapida nuova esposizione dei contenuti esposti negli screencast precedentemente messi a disposizione
 - la discussione sui contenuti trattati, a partire da sollecitazioni e domande da parte degli studenti
 - esercizi e considerazioni ulteriori
 
 Si invitano caldamente gli studenti a sfruttare al meglio le caratteristiche di questa modalità didattica assistendo con attenzione agli screencast man mano messi a disposizione, in modo tale da utilizzare nel modo migliore la possibilità di chiarimenti e approfondimenti, anche in termini di esercizi, offerti dalle lezioni.
 
-In questa edizione del corso, si prevede di considerare, mediante presentazione da parte del docente ed assegnazione di compiti a gruppi di studenti e studentesse interessati, l'implementazione nel linguaggio Python di metodi ed algoritmi presentati nel corso. La sezione *Codici* del sito è dedicata a fornire accesso alla versione più recente di tale codice, oltre che alla sua documentazione.
+<!--In questa edizione del corso, si prevede di considerare, mediante presentazione da parte del docente ed assegnazione di compiti a gruppi di studenti e studentesse interessati, l'implementazione nel linguaggio Python di metodi ed algoritmi presentati nel corso. La sezione *Codici* del sito è dedicata a fornire accesso alla versione più recente di tale codice, oltre che alla sua documentazione.-->
 
 
 #### Ricevimento

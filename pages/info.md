@@ -36,9 +36,9 @@ Si invitano caldamente gli studenti a sfruttare al meglio le caratteristiche di 
 
 Il ricevimento studenti avviene secondo due modalità:
 
-* tendenzialmente, al termine di tutte le lezioni su Teams, per gli studenti che lo richiedano
+* tendenzialmente, in presenza al termine di tutte le lezioni, per gli studenti che lo richiedano
 
-* mediante appuntamento concordato su Teams, da richiedere eventualmente via mail o sulla chat Teams
+* su Teams, mediante appuntamento concordato, da richiedere eventualmente via mail o sulla chat Teams
 
 ### Esami
 

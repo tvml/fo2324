@@ -14,8 +14,9 @@ header: no
         <table>
             {% for post in site.categories.comunicazioni reversed %}
             <tr>
-                <td><i class="icon-clock"></i> <time datetime="{{post.date}}">{{post.date|date:"%d-%m-%Y"}}</time></td>  
-                <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+                <td><i class="icon-clock"></i> <div  style="padding:0px; font-size:1.2em;"><time datetime="{{post.date}}">{{post.date|date:"%d-%m-%Y"}}</time></div></td>  
+                <td><div  style="padding:0px; font-size:1.2em;"><font color="#416a69">{{ post.title }}</font></div></td> 
+	    
                 <!--td><span class="category"><i class="icon-tag"></i> {{post.categories | category_links}}</span></td-->
             </tr>
             <tr>

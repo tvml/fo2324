@@ -1,0 +1,22 @@
+I"�<posts>
+        <table>
+            
+            <tr>
+                <td><i class="icon-clock"></i> <time datetime="2021-09-27 00:00:00 +0200">27-09-2021</time></td>  
+                <td><div id="name" class="masthead-title" style="padding:0px font-size: medium;"><font color="#81cac9">Lezioni prima settimana&lt;/div&gt;&lt;/td&gt;
+                <!--td><span class="category"><i class="icon-tag"></i> comunicazioni</span></td-->
+            &lt;/tr&gt;
+            <tr>
+                <td colspan="2">
+                <p>Le lezioni in presenza previste per martedì 5 e venerdì 8 ottobre si svolgeranno in aula L3</p>
+
+                </td>
+            </tr>
+    	
+        &lt;/table&gt;
+&lt;/posts&gt;
+
+
+
+</font></div></td></tr></table></posts>
+:ET

@@ -9,7 +9,7 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono:
+Le lezioni del corso si svolgono in aula B negli orari seguenti:
 
 * Martedì h. 14.00-15.45 
 * Venerdì h. 11.00-12.45 

@@ -326,15 +326,25 @@
 
 		
 
-	<div id="masthead-no-image-header">
-		<div class="row">
+	<!--div id="masthead-no-image-header"-->
+	<div id="masthead-with-background-color" style="background: #7c0000;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
+	        	<div class="row">
+	        		<div id="page-title" class="small-11 columns" style="color: white;
+	            font-size: 1cm;
+	            height: auto;">
+	        		<img style="width:90px;height:90px;vertical-align:middle;border-radius: 10px; margin-right: 40px;" src="http://localhost:4000/fo2122/assets/img/states.png">
+	        			RSS Feed (Styled)
+	        		</div>
+	        	</div>
+		
+		<!--div class="row">
 			<div class="small-12 columns">
 				<a id="logo" href="http://localhost:4000" title="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
 				<p style="text-align:center;">
 					<img src="http://localhost:4000/fo2122/assets/img/" alt="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
 				</p>
 				</a>
-			</div><!-- /.small-12.columns -->
+			</div--><!-- /.small-12.columns -->
 		</div><!-- /.row -->
 	</div><!-- /#masthead -->
 

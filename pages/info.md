@@ -9,12 +9,12 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono in aula B negli orari seguenti:
+Le lezioni del corso si svolgono in aula 3PP2 negli orari seguenti:
 
 * Martedì h. 14.00-15.45 
 * Venerdì h. 11.00-12.45 
 
-Le lezioni avranno inizio martedì 5-10-2021
+Le lezioni avranno inizio venerdì 8-10-2021 in aula Magna (Gismondi)
 
 ### Organizzazione della didattica
 

@@ -1,0 +1,45 @@
+I"<h2 id="note-dai-lucidi">Note dai lucidi</h2>
+
+<!--1. [`Introduzione`{:.filelink}](/fo2122/note/intro-notes.pdf) al corso-->
+
+<ol>
+  <li>
+    <p><a href="/fo2122/note/richiami-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Richiami</code></a> matematici</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/fondamenti-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Concetti</code></a> fondamentali</p>
+  </li>
+</ol>
+
+<!--1. [`Introduzione`{:.filelink}](/fo2122/note/linguaggi-notes.pdf) a linguaggi e grammatiche formali
+
+1. [`Introduzione`{:.filelink}](/fo2122/note/automi-notes.pdf) a automi e computazioni
+
+1. [`Automi`{:.filelink}](/fo2122/note/asf-notes.pdf) a stati finiti
+
+1. [`Equivalenza`{:.filelink}](/fo2122/note/lingreg1-notes.pdf) ASF, GR, ER
+
+1. Alcune [`proprietà`{:.filelink}](/fo2122/note/lingreg2-notes.pdf) dei linguaggi regolari
+
+1.  [`Pumping lemma`{:.filelink}](/fo2122/note/lingreg3-notes.pdf) e non regolarità
+
+1. Grammatiche  [`context free`{:.filelink}](/fo2122/note/cf-notes.pdf), forme ridotte
+
+1. [`Forme normali`{:.filelink}](/fo2122/note/cfnf-notes.pdf) per grammatiche CF
+
+1. [`Pumping lemma`{:.filelink}](/fo2122/note/noncf-notes.pdf) e non contestualità
+
+1. Proprietà dei [`linguaggi CF`{:.filelink}](/fo2122/note/lingcf-notes.pdf)
+
+1. [`Automi a pila`{:.filelink}](/fo2122/note/pda-notes.pdf), relazioni con CFG
+
+1. Introduzione alle [`macchine di Turing`{:.filelink}](/fo2122/note/tm-notes.pdf)
+
+1. L'algoritmo di parsing [`Cocke-Younger-Kasami`{:.filelink}](/fo2122/note/cyk-notes.pdf)
+
+1. Introduzione ai  [`compilatori`{:.filelink}](/fo2122/note/parsing_intro-notes.pdf)
+
+1. Parsing [`top-down`{:.filelink}](/fo2122/note/parsing_topdown-notes.pdf)
+
+1. Parsing [`bottom-up`{:.filelink}](/fo2122/note/parsing_bottomup-notes.pdf)-->
+:ET

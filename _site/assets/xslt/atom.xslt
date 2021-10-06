@@ -193,6 +193,18 @@
           
           
         
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -266,6 +278,21 @@
 
             
             
+              <li><a href="http://localhost:4000/fo2122/lezioni/">lezioni</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
               <li><a href="http://localhost:4000/fo2122/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
@@ -281,7 +308,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/codici/">codici</a></li>
+              <li><a href="http://localhost:4000/fo2122/note/">note</a></li>
               <li class="divider"></li>
 
             
@@ -296,7 +323,22 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/lezioni/">lezioni</a></li>
+              <li><a href="http://localhost:4000/fo2122/quiz/">quiz</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/fo2122/codici/">codici</a></li>
               <li class="divider"></li>
 
             

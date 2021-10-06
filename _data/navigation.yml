@@ -17,16 +17,24 @@
   url: "/comunicazioni/"
   side: left
   
+- title: lezioni
+  url: "/lezioni/"
+  side: left
+  
 - title: lucidi
   url: "/lucidi/"
   side: left
   
-- title: codici
-  url: "/codici/"
+- title: note
+  url: "/note/"
   side: left
   
-- title: lezioni
-  url: "/lezioni/"
+- title: quiz
+  url: "/quiz/"
+  side: left
+  
+- title: codici
+  url: "/codici/"
   side: left
   
 - title: store
@@ -37,14 +45,14 @@
 #  url: "/biblio/"
 #  side: left
 
-#- title: "Dropdown Menu"
-#  url: "#"
+#- title: store
+# url: "/store/"
 #  side: left
 #  dropdown:
-#  - title: "Dropdown Menu 1"
-#    url: "#"
-#  - title: "Dropdown Menu 2"
-#    url: "#"
+#  - title: "varie"
+#    url: "/store/"
+#  - title: "quiz"
+#    url: "/store/quiz/"
 #  - title: "Dropdown Menu 3"
 #    url: "#"
 

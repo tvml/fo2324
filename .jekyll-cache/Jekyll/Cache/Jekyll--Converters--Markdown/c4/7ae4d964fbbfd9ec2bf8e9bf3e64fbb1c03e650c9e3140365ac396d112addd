@@ -1,0 +1,62 @@
+I"�<h2 id="note-dai-lucidi">Note dai lucidi</h2>
+
+<ol>
+  <li>
+    <p><a href="/fo2122/note/intro-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Introduzione</code></a> al corso</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/richiami-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Richiami</code></a> matematici</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/fondamenti-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Concetti</code></a> fondamentali</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/linguaggi-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Introduzione</code></a> a linguaggi e grammatiche formali</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/automi-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Introduzione</code></a> a automi e computazioni</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/asf-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Automi</code></a> a stati finiti</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/lingreg1-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Equivalenza</code></a> ASF, GR, ER</p>
+  </li>
+  <li>
+    <p>Alcune <a href="/fo2122/note/lingreg2-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">proprietà</code></a> dei linguaggi regolari</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/lingreg3-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Pumping lemma</code></a> e non regolarità</p>
+  </li>
+  <li>
+    <p>Grammatiche  <a href="/fo2122/note/cf-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">context free</code></a>, forme ridotte</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/cfnf-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Forme normali</code></a> per grammatiche CF</p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/noncf-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Pumping lemma</code></a> e non contestualità</p>
+  </li>
+  <li>
+    <p>Proprietà dei <a href="/fo2122/note/lingcf-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">linguaggi CF</code></a></p>
+  </li>
+  <li>
+    <p><a href="/fo2122/note/pda-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Automi a pila</code></a>, relazioni con CFG</p>
+  </li>
+  <li>
+    <p>Introduzione alle <a href="/fo2122/note/tm-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">macchine di Turing</code></a></p>
+  </li>
+  <li>
+    <p>L’algoritmo di parsing <a href="/fo2122/note/cyk-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">Cocke-Younger-Kasami</code></a></p>
+  </li>
+  <li>
+    <p>Introduzione ai  <a href="/fo2122/note/parsing_intro-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">compilatori</code></a></p>
+  </li>
+  <li>
+    <p>Parsing <a href="/fo2122/note/parsing_topdown-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">top-down</code></a></p>
+  </li>
+  <li>
+    <p>Parsing <a href="/fo2122/note/parsing_bottomup-notes.pdf"><code class="language-plaintext filelink highlighter-rouge">bottom-up</code></a></p>
+  </li>
+</ol>
+:ET

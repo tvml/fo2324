@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/fo2122/</id>
 	<title>Fondamenti di Informatica: modulo 1</title>
-	<updated>2021-09-27T17:24:57+02:00</updated>
+	<updated>2021-10-06T15:25:43+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -26,6 +26,90 @@
 
 	
 		<entry>
+			<id>http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/</id>
+			<title>Prima lezione: ulteriore correzione</title>
+			<link href="http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/" rel="alternate" type="text/html" title="Prima lezione: ulteriore correzione" />
+			<updated>2021-10-06T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>giorgio gambosi</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/">&lt;p&gt;La prima lezione sarà tenuta martedì 12 alle 14. In assenza di ulteriori comunicazioni, in aula 3 PP2&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2021-10-06T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/</id>
+			<title>Aula prima lezione: correzione</title>
+			<link href="http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/" rel="alternate" type="text/html" title="Aula prima lezione: correzione" />
+			<updated>2021-10-05T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>giorgio gambosi</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/">&lt;p&gt;La prima lezione sarà tenuta venerdì 8 alle 11, come previsto, in aula Magna (Gismondi)&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2021-10-05T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/fo2122/comunicazioni/prima-lezione/</id>
+			<title>Data prima lezione</title>
+			<link href="http://localhost:4000/fo2122/comunicazioni/prima-lezione/" rel="alternate" type="text/html" title="Data prima lezione" />
+			<updated>2021-09-29T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>giorgio gambosi</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/fo2122/comunicazioni/prima-lezione/">&lt;p&gt;Contrariamente a quanto comunicato in precedenza, le lezioni del corso inizieranno venerdì 8 (aula L3) e non martedì 5&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2021-09-29T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
 			<id>http://localhost:4000/fo2122/comunicazioni/prima-settimana/</id>
 			<title>Lezioni prima settimana</title>
 			<link href="http://localhost:4000/fo2122/comunicazioni/prima-settimana/" rel="alternate" type="text/html" title="Lezioni prima settimana" />
@@ -35,11 +119,9 @@
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>giorgio gambosi</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			

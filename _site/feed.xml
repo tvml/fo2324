@@ -9,6 +9,33 @@
 		<atom:link href="http://localhost:4000/fo2122/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Prima lezione: ulteriore correzione</title>
+				<link>http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/</link>
+				<pubDate>Wed, 06 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;La prima lezione sarà tenuta martedì 12 alle 14. In assenza di ulteriori comunicazioni, in aula 3 PP2&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/</guid>
+			</item>
+		
+			<item>
+				<title>Aula prima lezione: correzione</title>
+				<link>http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/</link>
+				<pubDate>Tue, 05 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;La prima lezione sarà tenuta venerdì 8 alle 11, come previsto, in aula Magna (Gismondi)&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/</guid>
+			</item>
+		
+			<item>
+				<title>Data prima lezione</title>
+				<link>http://localhost:4000/fo2122/comunicazioni/prima-lezione/</link>
+				<pubDate>Wed, 29 Sep 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Contrariamente a quanto comunicato in precedenza, le lezioni del corso inizieranno venerdì 8 (aula L3) e non martedì 5&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-lezione/</guid>
+			</item>
+		
+			<item>
 				<title>Lezioni prima settimana</title>
 				<link>http://localhost:4000/fo2122/comunicazioni/prima-settimana/</link>
 				<pubDate>Mon, 27 Sep 2021 00:00:00 +0200</pubDate>

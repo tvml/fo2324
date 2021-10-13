@@ -9,7 +9,7 @@ header: no
 
 ## Lucidi delle lezioni
 
-<!--1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/intro-slides.pdf) al corso-->
+1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/lucidi/IntroFO.pdf) ai temi del corso
 
 1. [`Richiami`{:.filelink}]({{ site.baseurl }}/lucidi/richiami-slides.pdf) matematici
 

@@ -17,11 +17,11 @@ header: no
 
 1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/note/linguaggi-notes.pdf) a linguaggi e grammatiche formali
 
-<!--1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/note/automi-notes.pdf) a automi e computazioni
+1. [`Introduzione`{:.filelink}]({{ site.baseurl }}/note/automi-notes.pdf) a automi e computazioni
 
 1. [`Automi`{:.filelink}]({{ site.baseurl }}/note/asf-notes.pdf) a stati finiti
 
-1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/note/lingreg1-notes.pdf) ASF, GR, ER
+<!--1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/note/lingreg1-notes.pdf) ASF, GR, ER
 
 1. Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/note/lingreg2-notes.pdf) dei linguaggi regolari
 

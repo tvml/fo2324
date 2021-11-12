@@ -21,11 +21,11 @@ header: no
 
 1. [`Automi`{:.filelink}]({{ site.baseurl }}/lucidi/asf-slides.pdf) a stati finiti
 
-<!--1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg1-slides.pdf) ASF, GR, ER
+1. [`Equivalenza`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg1-slides.pdf) ASF, GR, ER
 
 1. Alcune [`proprietà`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg2-slides.pdf) dei linguaggi regolari
 
-1.  [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg3-slides.pdf) e non regolarità
+<!--1.  [`Pumping lemma`{:.filelink}]({{ site.baseurl }}/lucidi/lingreg3-slides.pdf) e non regolarità
 
 1. Grammatiche  [`context free`{:.filelink}]({{ site.baseurl }}/lucidi/cf-slides.pdf), forme ridotte
 

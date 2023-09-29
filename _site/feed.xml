@@ -1,47 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/fo2122/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="/fo2122/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/fo2324/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/fo2324/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Fondamenti di Informatica: modulo 1</title>
 		<description>Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.</description>
-		<link>http://localhost:4000/fo2122/</link>
-		<atom:link href="http://localhost:4000/fo2122/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/fo2324/</link>
+		<atom:link href="http://localhost:4000/fo2324/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Lezione 6</title>
+				<link>http://localhost:4000/fo2324/lezioni/lezione/</link>
+				<pubDate>Fri, 29 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066834-FONDAMENTI_DI_INFORMATICA_1/Documenti%20condivisi/Lezioni/Recordings/Solo%20visualizzazione/Lezione%20Fondamenti%20di%20Informatica-20211029_110803-Registrazione%20della%20riunione.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 5</title>
+				<link>http://localhost:4000/fo2324/lezioni/lezione/</link>
+				<pubDate>Tue, 26 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066834-FONDAMENTI_DI_INFORMATICA_1/Documenti%20condivisi/Lezioni/Recordings/Solo%20visualizzazione/Incontro%20FO-20211027_184719-Registrazione%20della%20riunione.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 4</title>
+				<link>http://localhost:4000/fo2324/lezioni/lezione/</link>
+				<pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066834-FONDAMENTI_DI_INFORMATICA_1/Documenti%20condivisi/Lezioni/Recordings/Solo%20visualizzazione/Lezione%20Fondamenti%20di%20Informatica-20211022_110848-Registrazione%20della%20riunione.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 3</title>
+				<link>http://localhost:4000/fo2324/lezioni/lezione/</link>
+				<pubDate>Tue, 19 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066834-FONDAMENTI_DI_INFORMATICA_1/Documenti%20condivisi/Lezioni/Recordings/Solo%20visualizzazione/Lezione%20Fondamenti%20di%20Informatica-20211019_141350-Registrazione%20della%20riunione.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 2</title>
+				<link>http://localhost:4000/fo2324/lezioni/lezione/</link>
+				<pubDate>Fri, 15 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066834-FONDAMENTI_DI_INFORMATICA_1/Documenti%20condivisi/Lezioni/Recordings/Lezione%20Fondamenti%20di%20Informatica-20211015_111425-Registrazione%20della%20riunione.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 1</title>
+				<link>http://localhost:4000/fo2324/lezioni/lezione/</link>
+				<pubDate>Tue, 12 Oct 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://uniroma2.sharepoint.com/sites/GAMBOSI-8066834-FONDAMENTI_DI_INFORMATICA_1/Documenti%20condivisi/Lezioni/Recordings/Lezione%20Fondamenti%20di%20Informatica-20211012_142406-Registrazione%20della%20riunione.mp4&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/lezioni/lezione/</guid>
+			</item>
 		
 			<item>
 				<title>Prima lezione: ulteriore correzione</title>
-				<link>http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/</link>
+				<link>http://localhost:4000/fo2324/comunicazioni/prima-lezione-ulteriore-correzione-copia/</link>
 				<pubDate>Wed, 06 Oct 2021 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;La prima lezione sarà tenuta martedì 12 alle 14. In assenza di ulteriori comunicazioni, in aula 3 PP2&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/</guid>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/comunicazioni/prima-lezione-ulteriore-correzione-copia/</guid>
 			</item>
 		
 			<item>
 				<title>Aula prima lezione: correzione</title>
-				<link>http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/</link>
+				<link>http://localhost:4000/fo2324/comunicazioni/prima-lezione-correzione/</link>
 				<pubDate>Tue, 05 Oct 2021 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;La prima lezione sarà tenuta venerdì 8 alle 11, come previsto, in aula Magna (Gismondi)&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/</guid>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/comunicazioni/prima-lezione-correzione/</guid>
 			</item>
 		
 			<item>
 				<title>Data prima lezione</title>
-				<link>http://localhost:4000/fo2122/comunicazioni/prima-lezione/</link>
+				<link>http://localhost:4000/fo2324/comunicazioni/prima-lezione/</link>
 				<pubDate>Wed, 29 Sep 2021 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Contrariamente a quanto comunicato in precedenza, le lezioni del corso inizieranno venerdì 8 (aula L3) e non martedì 5&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-lezione/</guid>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/comunicazioni/prima-lezione/</guid>
 			</item>
 		
 			<item>
 				<title>Lezioni prima settimana</title>
-				<link>http://localhost:4000/fo2122/comunicazioni/prima-settimana/</link>
+				<link>http://localhost:4000/fo2324/comunicazioni/prima-settimana/</link>
 				<pubDate>Mon, 27 Sep 2021 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Le lezioni in presenza previste per martedì 5 e venerdì 8 ottobre si svolgeranno in aula L3&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/fo2122/comunicazioni/prima-settimana/</guid>
+				<guid isPermaLink="true">http://localhost:4000/fo2324/comunicazioni/prima-settimana/</guid>
 			</item>
 		
 	</channel>

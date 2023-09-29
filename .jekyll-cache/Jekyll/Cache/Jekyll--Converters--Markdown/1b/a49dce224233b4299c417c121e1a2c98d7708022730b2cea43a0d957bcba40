@@ -1,0 +1,51 @@
+I"\	<h2 id="lucidi-delle-lezioni">Lucidi delle lezioni</h2>
+
+<ol>
+  <li>
+    <p><a href="/fo2324/lucidi/IntroFO.pdf"><code class="language-plaintext filelink highlighter-rouge">Introduzione</code></a> ai temi del corso</p>
+  </li>
+  <li>
+    <p><a href="/fo2324/lucidi/richiami-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">Richiami</code></a> matematici</p>
+  </li>
+  <li>
+    <p><a href="/fo2324/lucidi/fondamenti-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">Concetti</code></a> fondamentali</p>
+  </li>
+  <li>
+    <p><a href="/fo2324/lucidi/linguaggi-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">Introduzione</code></a> a linguaggi e grammatiche formali</p>
+  </li>
+  <li>
+    <p><a href="/fo2324/lucidi/automi-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">Introduzione</code></a> a automi e computazioni</p>
+  </li>
+  <li>
+    <p><a href="/fo2324/lucidi/asf-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">Automi</code></a> a stati finiti</p>
+  </li>
+  <li>
+    <p><a href="/fo2324/lucidi/lingreg1-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">Equivalenza</code></a> ASF, GR, ER</p>
+  </li>
+  <li>
+    <p>Alcune <a href="/fo2324/lucidi/lingreg2-slides.pdf"><code class="language-plaintext filelink highlighter-rouge">proprietà</code></a> dei linguaggi regolari</p>
+  </li>
+</ol>
+
+<!--1.  [`Pumping lemma`{:.filelink}](/fo2324/lucidi/lingreg3-slides.pdf) e non regolarità
+
+1. Grammatiche  [`context free`{:.filelink}](/fo2324/lucidi/cf-slides.pdf), forme ridotte
+
+1. [`Forme normali`{:.filelink}](/fo2324/lucidi/cfnf-slides.pdf) per grammatiche CF
+
+1. [`Pumping lemma`{:.filelink}](/fo2324/lucidi/noncf-slides.pdf) e non contestualità
+
+1. Proprietà dei [`linguaggi CF`{:.filelink}](/fo2324/lucidi/lingcf-slides.pdf)
+
+1. [`Automi a pila`{:.filelink}](/fo2324/lucidi/pda-slides.pdf), relazioni con CFG
+
+1. Introduzione alle [`macchine di Turing`{:.filelink}](/fo2324/lucidi/tm-slides.pdf)
+
+1. L'algoritmo di parsing [`Cocke-Younger-Kasami`{:.filelink}](/fo2324/lucidi/cyk-slides.pdf)
+
+1. Introduzione ai  [`compilatori`{:.filelink}](/fo2324/lucidi/parsing_intro-slides.pdf)
+
+1. Parsing [`top-down`{:.filelink}](/fo2324/lucidi/parsing_topdown-slides.pdf)
+
+1. Parsing [`bottom-up`{:.filelink}](/fo2324/lucidi/parsing_bottomup-slides.pdf)-->
+:ET

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 31 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 32 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/404.html</loc>
+	<loc>http://localhost:4000/fo2324/404.html</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/blog/archive/</loc>
+	<loc>http://localhost:4000/fo2324/blog/archive/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/atom.xml</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/biblio/</loc>
+	<loc>http://localhost:4000/fo2324/atom.xml</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/biblio/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/codici/</loc>
+	<loc>http://localhost:4000/fo2324/codici/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/comunicazioni/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/contact/</loc>
+	<loc>http://localhost:4000/fo2324/comunicazioni/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/feed.xml</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/humans.txt</loc>
+	<loc>http://localhost:4000/fo2324/contact/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/blog/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/</loc>
+	<loc>http://localhost:4000/fo2324/feed.xml</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/info/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/lezioni/</loc>
+	<loc>http://localhost:4000/fo2324/humans.txt</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/lucidi/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/note/</loc>
+	<loc>http://localhost:4000/fo2324/blog/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/programma/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,24 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/quiz/</loc>
+	<loc>http://localhost:4000/fo2324/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/redirect-page/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,28 +174,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/robots.txt</loc>
+	<loc>http://localhost:4000/fo2324/info/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/search/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -313,24 +189,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/sitemap.xml</loc>
+	<loc>http://localhost:4000/fo2324/lezioni/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/fo2122/store/</loc>
-	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -343,9 +204,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/style.css</loc>
+	<loc>http://localhost:4000/fo2324/lucidi/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -358,9 +219,69 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/assets/css/style.css</loc>
+	<loc>http://localhost:4000/fo2324/note/</loc>
 	
-		<lastmod>2021-10-06T15:25:43+02:00</lastmod>
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/programma/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/quiz/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/redirect-page/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/robots.txt</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -376,13 +297,197 @@
 	
 
 	
-
-
-<!-- Posts: 4 links with priority=0.5, changefreq=monthly -->
+	<url>
+	<loc>http://localhost:4000/fo2324/search/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/comunicazioni/prima-lezione-ulteriore-correzione-copia/</loc>
+	<loc>http://localhost:4000/fo2324/sitemap.xml</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/store/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/style.css</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/assets/css/style.css</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/blog/page2/</loc>
+	
+		<lastmod>2023-09-29T18:11:02+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+
+<!-- Posts: 10 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/lezioni/lezione/</loc>
+	
+		<lastmod>2021-10-29T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/lezioni/lezione/</loc>
+	
+		<lastmod>2021-10-26T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/lezioni/lezione/</loc>
+	
+		<lastmod>2021-10-22T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/lezioni/lezione/</loc>
+	
+		<lastmod>2021-10-19T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/lezioni/lezione/</loc>
+	
+		<lastmod>2021-10-15T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/lezioni/lezione/</loc>
+	
+		<lastmod>2021-10-12T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fo2324/comunicazioni/prima-lezione-ulteriore-correzione-copia/</loc>
 	
 		<lastmod>2021-10-06T00:00:00+02:00</lastmod>
 	
@@ -397,7 +502,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/comunicazioni/prima-lezione-correzione/</loc>
+	<loc>http://localhost:4000/fo2324/comunicazioni/prima-lezione-correzione/</loc>
 	
 		<lastmod>2021-10-05T00:00:00+02:00</lastmod>
 	
@@ -412,7 +517,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/comunicazioni/prima-lezione/</loc>
+	<loc>http://localhost:4000/fo2324/comunicazioni/prima-lezione/</loc>
 	
 		<lastmod>2021-09-29T00:00:00+02:00</lastmod>
 	
@@ -427,7 +532,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/fo2122/comunicazioni/prima-settimana/</loc>
+	<loc>http://localhost:4000/fo2324/comunicazioni/prima-settimana/</loc>
 	
 		<lastmod>2021-09-27T00:00:00+02:00</lastmod>
 	

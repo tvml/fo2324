@@ -9,9 +9,9 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2122/assets/css/styles_feeling_responsive.css" />
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2122/assets/css/style.css" />
-	<script src="http://localhost:4000/fo2122/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2324/assets/css/styles_feeling_responsive.css" />
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/fo2324/assets/css/style.css" />
+	<script src="http://localhost:4000/fo2324/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -112,7 +112,7 @@
 	
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata." />
-	<meta property="og:url" content="http://localhost:4000/fo2122//assets/xslt/atom.xslt" />
+	<meta property="og:url" content="http://localhost:4000/fo2324//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Fondamenti di Informatica: modulo 1" />
 	
 
@@ -121,7 +121,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/fo2122/humans.txt" />
+	<link type="text/plain" rel="author" href="http://localhost:4000/fo2324/humans.txt" />
 
 	
 
@@ -136,7 +136,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/fo2122" class="icon-tree"> Fondamenti di Informatica: modulo 1</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/fo2324" class="icon-tree"> Fondamenti di Informatica: modulo 1</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -218,7 +218,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/">start</a></li>
+              <li><a href="http://localhost:4000/fo2324/">start</a></li>
               <li class="divider"></li>
 
             
@@ -233,7 +233,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/info/">informazioni</a></li>
+              <li><a href="http://localhost:4000/fo2324/info/">informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -248,7 +248,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/programma/">programma</a></li>
+              <li><a href="http://localhost:4000/fo2324/programma/">programma</a></li>
               <li class="divider"></li>
 
             
@@ -263,7 +263,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/comunicazioni/">comunicazioni</a></li>
+              <li><a href="http://localhost:4000/fo2324/comunicazioni/">comunicazioni</a></li>
               <li class="divider"></li>
 
             
@@ -278,7 +278,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/lezioni/">lezioni</a></li>
+              <li><a href="http://localhost:4000/fo2324/lezioni/">lezioni</a></li>
               <li class="divider"></li>
 
             
@@ -293,7 +293,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/lucidi/">lucidi</a></li>
+              <li><a href="http://localhost:4000/fo2324/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -308,7 +308,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/note/">note</a></li>
+              <li><a href="http://localhost:4000/fo2324/note/">note</a></li>
               <li class="divider"></li>
 
             
@@ -323,7 +323,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/quiz/">quiz</a></li>
+              <li><a href="http://localhost:4000/fo2324/quiz/">quiz</a></li>
               <li class="divider"></li>
 
             
@@ -338,7 +338,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/codici/">codici</a></li>
+              <li><a href="http://localhost:4000/fo2324/codici/">codici</a></li>
               <li class="divider"></li>
 
             
@@ -353,7 +353,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2122/store/">store</a></li>
+              <li><a href="http://localhost:4000/fo2324/store/">store</a></li>
               <li class="divider"></li>
 
             
@@ -369,12 +369,12 @@
 		
 
 	<!--div id="masthead-no-image-header"-->
-	<div id="masthead-with-background-color" style="background: #7c0000;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
+	<div id="masthead-with-background-color" style="background: #3f7c98;padding-left:0px;padding-top: 10px;padding-bottom: 10px;height: auto;">
 	        	<div class="row">
 	        		<div id="page-title" class="small-11 columns" style="color: white;
 	            font-size: 1cm;
 	            height: auto;">
-	        		<img style="width:90px;height:90px;vertical-align:middle;border-radius: 10px; margin-right: 40px;" src="http://localhost:4000/fo2122/assets/img/states.png">
+	        		<img style="width:90px;height:90px;vertical-align:middle;border-radius: 10px; margin-right: 40px;" src="http://localhost:4000/fo2324/assets/img/states.png">
 	        			Atom Feed (Styled)
 	        		</div>
 	        	</div>
@@ -383,7 +383,7 @@
 			<div class="small-12 columns">
 				<a id="logo" href="http://localhost:4000" title="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
 				<p style="text-align:center;">
-					<img src="http://localhost:4000/fo2122/assets/img/" alt="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
+					<img src="http://localhost:4000/fo2324/assets/img/" alt="Fondamenti di Informatica: modulo 1 – Università di Roma Tor Vergata">
 				</p>
 				</a>
 			</div--><!-- /.small-12.columns -->
@@ -483,7 +483,7 @@
                         
                             
                             <li >
-                                <a href="https://teams.microsoft.com/l/team/19%3afnpjj8Gpf9_eVm-UpC5GkDIXqIIa46FfG3vUh9LI9fE1%40thread.tacv2/conversations?groupId=d4c5d008-9873-4b48-bbb9-9b3481d37e8e&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"  title="Teams">
+                                <a href="https://teams.microsoft.com/l/team/19%3aTtzlHmWr5eGD-az0mxfwkruAItmXv1FkjRdncnke2wY1%40thread.tacv2/conversations?groupId=de377fb7-e5eb-4205-8201-f32a8dedb3f6&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e"  title="Teams">
                                 <font color="#ffc800">Teams</font></a>
                             </li>
                         
@@ -576,7 +576,7 @@
 		
 
 
-<script src="http://localhost:4000/fo2122/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/fo2324/assets/js/javascript.min.js"></script>
 
 
 

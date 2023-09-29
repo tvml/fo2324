@@ -1,0 +1,55 @@
+I"|<h3 id="dove-e-quando">Dove e quando</h3>
+
+<p>Le lezioni del corso si svolgono in aula 3PP2 negli orari seguenti:</p>
+
+<ul>
+  <li>Lunedì h. 11.00-12.45</li>
+  <li>Venerdì h. 11.00-12.45</li>
+</ul>
+
+<p>Le lezioni avranno inizio lunedì 2-10-2023 in aula 3 PP2</p>
+
+<h3 id="organizzazione-della-didattica">Organizzazione della didattica</h3>
+
+<p>Il corso si svolge in presenza. Il relativo materiale sarà comunque reso disponibile on-line, sia su questo sito che sulla piattaforma Teams, nell’area dedicata al corso, a <a href="https://teams.microsoft.com/l/channel/19%3abc0238b251fe4421b68944475b03701f%40thread.tacv2/Lezioni?groupId=d4c5d008-9873-4b48-bbb9-9b3481d37e8e&amp;tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e">questo indirizzo</a>.</p>
+
+<!--In questa edizione del corso, si prevede di considerare, mediante presentazione da parte del docente ed assegnazione di compiti a gruppi di studenti e studentesse interessati, l'implementazione nel linguaggio Python di metodi ed algoritmi presentati nel corso. La sezione *Codici* del sito è dedicata a fornire accesso alla versione più recente di tale codice, oltre che alla sua documentazione.-->
+
+<h4 id="ricevimento">Ricevimento</h4>
+
+<p>Il ricevimento studenti avviene secondo due modalità:</p>
+
+<ul>
+  <li>
+    <p>in presenza al termine di tutte le lezioni, per gli studenti che lo richiedano</p>
+  </li>
+  <li>
+    <p>su Teams, mediante appuntamento concordato, da richiedere eventualmente via mail o sulla chat Teams</p>
+  </li>
+</ul>
+
+<h3 id="esami">Esami</h3>
+
+<h4 id="appelli-di-esame">Appelli di esame</h4>
+
+<p>Sono previsti due appelli di esame per ogni sessione.</p>
+
+<p>L’iscrizione alla prova di esame del modulo 1 non richiede l’utilizzo della piattaforma Delphi. Le modalità di iscrizione verranno comunicate a tempo debito.</p>
+
+<h4 id="modalità-di-esame">Modalità di esame</h4>
+
+<p>L’esame prevede una prova scritta e una, eventuale, orale. Gli studenti che hanno conseguito la sufficienza nella prova scritta possono, se preferiscono, non sostenere la prova orale, mantenendo la valutazione ottenuta allo scritto. Gli studenti che sono risultati appena al di sotto della soglia della sufficienza possono, se vogliono, sostenere la prova orale per raggiungere la sufficienza stessa.</p>
+
+<h3 id="materiale-didattico">Materiale didattico</h3>
+
+<p>Il testo di riferimento principale è il seguente:
+<code class="language-plaintext alert highlighter-rouge">G. Ausiello, F. D'Amore, G. Gambosi, L. Laura "Linguaggi, Modelli, Complessità", Franco Angeli 2014</code></p>
+
+<p>Un ulteriore testo, che sarà utilizzato nella trattazione del parsing, è <code class="language-plaintext alert highlighter-rouge">A. Aho, M. Lam, R. Sethi, J.D. Ullman "Compilers. Principles, Techniques, and Tools", Pearson 2007</code>, tradotto in italiano come ` “Compilatori. Principi, tecniche e strumenti”, Pearson 2019`</p>
+
+<p>Sarà inoltre, ove necessario, suggerito materiale sull’argomento liberamente disponibile sul web.</p>
+
+<p>Infine, sarà reso disponibile il materiale didattico preparato dal docente,
+comprendente copia dei lucidi utilizzati nel corso delle lezioni ed ulteriori
+note su argomenti specifici.</p>
+:ET

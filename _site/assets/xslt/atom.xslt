@@ -199,12 +199,6 @@
           
           
         
-
-              
-
-          
-          
-        
         
       </ul>
 
@@ -338,22 +332,7 @@
 
             
             
-              <li><a href="http://localhost:4000/fo2324/codici/">codici</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/fo2324/store/">store</a></li>
+              <li><a href="http://localhost:4000/fo2324/store/">varie</a></li>
               <li class="divider"></li>
 
             

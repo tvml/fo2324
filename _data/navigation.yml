@@ -33,11 +33,7 @@
   url: "/quiz/"
   side: left
   
-- title: codici
-  url: "/codici/"
-  side: left
-  
-- title: store
+- title: varie
   url: "/store/"
   side: left
   

@@ -31,6 +31,8 @@ header: no
 * Ambiguità e sua indecidibilità
 * L'algoritmo CYK
 
+* Introduzione alle macchine di Turing e loro relazione con i linguaggi generali e context sensitive
+
 * Struttura di un compilatore: analisi lessicale e sintattica, generazione del codice
 * Analizzatori lessicali (scanner)
 * Analizzatori sintattici (parser)

@@ -9,3 +9,6 @@ header: no
 
 ## Note dai lucidi
 
+1. [`Richiami`{:.filelink}]({{ site.baseurl }}/note/1-richiami_note.pdf) matematici
+
+1. [`Concetti`{:.filelink}]({{ site.baseurl }}/note/2-fondamenti_note.pdf) fondamentali

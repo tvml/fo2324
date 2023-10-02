@@ -13,5 +13,7 @@ header: no
 
 1. [`Concetti fondamentali`{:.filelink}]({{ site.baseurl }}/lucidi/2-fondamenti-slides.pdf) 
 
+1. [`Linguaggi, grammatiche, automi`{:.filelink}]({{ site.baseurl }}/lucidi/3-linguaggi-slides.pdf) 
+
 
 

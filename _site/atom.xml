@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/fo2324/</id>
 	<title>Fondamenti di Informatica: modulo 1</title>
-	<updated>2023-09-29T19:29:17+02:00</updated>
+	<updated>2023-10-03T22:48:25+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al primo modulo del corso di Fondamenti di Informatica, CdL in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -24,5 +24,61 @@
 
 	<generator uri="http://jekyllrb.com" version="4.1.1">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/fo2324/comunicazioni/lezione_annullata/</id>
+			<title>Lezione annullata</title>
+			<link href="http://localhost:4000/fo2324/comunicazioni/lezione_annullata/" rel="alternate" type="text/html" title="Lezione annullata" />
+			<updated>2023-10-03T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>giorgio gambosi</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/fo2324/comunicazioni/lezione_annullata/">&lt;p&gt;La lezione prevista per lunedì 9-10-2023 non avrà luogo per impegni inderogabili del docente.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2023-10-03T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/fo2324/lezioni/lezione/</id>
+			<title>Lezione 1</title>
+			<link href="http://localhost:4000/fo2324/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 1" />
+			<updated>2021-10-02T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>giorgio gambosi</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/fo2324/lezioni/lezione/">&lt;p&gt;Introduzione al corso&lt;/p&gt;
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2021-10-02T00:00:00+02:00</published>
+		</entry>
 	
 </feed>

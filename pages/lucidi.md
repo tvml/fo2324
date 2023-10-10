@@ -15,5 +15,7 @@ header: no
 
 1. [`Linguaggi, grammatiche, automi`{:.filelink}]({{ site.baseurl }}/lucidi/3-linguaggi-slides.pdf) 
 
+1. [`Automi a stati finiti`{:.filelink}]({{ site.baseurl }}/lucidi/4-asf-slides.pdf) 
+
 
 

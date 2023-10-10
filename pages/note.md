@@ -14,3 +14,5 @@ header: no
 1. [`Concetti`{:.filelink}]({{ site.baseurl }}/note/2-fondamenti_note.pdf) fondamentali
 
 1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/3-linguaggi_note.pdf), grammatiche, automi
+
+1. [`Automi`{:.filelink}]({{ site.baseurl }}/note/4-asf_note.pdf) a stati finiti

@@ -9,10 +9,10 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono in aula 3PP2 negli orari seguenti:
+Le lezioni del corso si svolgono negli orari seguenti:
 
-* Lunedì h. 11.00-12.45 
-* Mercoledì h. 14.00-15.45 
+* Lunedì h. 11.00-12.45 (aula 3 PP2) 
+* Mercoledì h. 14.00-15.45  (aula 5 PP2)
 
 Le lezioni avranno inizio lunedì 2-10-2023 in aula 3 PP2
 

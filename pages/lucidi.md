@@ -17,5 +17,7 @@ header: no
 
 1. [`Automi a stati finiti`{:.filelink}]({{ site.baseurl }}/lucidi/4-asf-slides.pdf) 
 
+1. [`Linguaggi regolari`{:.filelink}]({{ site.baseurl }}/lucidi/5-lingreg-slides.pdf) 
+
 
 

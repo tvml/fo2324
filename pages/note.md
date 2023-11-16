@@ -16,3 +16,5 @@ header: no
 1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/3-linguaggi_note.pdf), grammatiche, automi
 
 1. [`Automi`{:.filelink}]({{ site.baseurl }}/note/4-asf_note.pdf) a stati finiti
+
+1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/5-linregr_note.pdf) regolari

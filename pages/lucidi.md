@@ -19,5 +19,5 @@ header: no
 
 1. [`Linguaggi regolari`{:.filelink}]({{ site.baseurl }}/lucidi/5-lingreg-slides.pdf) 
 
-
+1. [`Linguaggi context free`{:.filelink}]({{ site.baseurl }}/lucidi/6-lincf-slides.pdf) 
 

@@ -18,3 +18,5 @@ header: no
 1. [`Automi`{:.filelink}]({{ site.baseurl }}/note/4-asf_note.pdf) a stati finiti
 
 1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/5-linregr_note.pdf) regolari
+
+1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/6-lincf_note.pdf) context free

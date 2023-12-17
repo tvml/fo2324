@@ -30,13 +30,3 @@ header: no
 * Automi a pila deterministici
 * Ambiguità e sua indecidibilità
 * L'algoritmo CYK
-
-* Introduzione alle macchine di Turing e loro relazione con i linguaggi generali e context sensitive
-
-* Struttura di un compilatore: analisi lessicale e sintattica, generazione del codice
-* Analizzatori lessicali (scanner)
-* Analizzatori sintattici (parser)
-* Parser a discesa ricorsiva
-* Parser top-down e linguaggi LL(k)
-* Parser bottom-up e linguaggi LR(k)
-* Precedenza di operatori

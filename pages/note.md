@@ -20,3 +20,5 @@ header: no
 1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/5-linregr_note.pdf) regolari
 
 1. [`Linguaggi`{:.filelink}]({{ site.baseurl }}/note/6-lincf_note.pdf) context free
+
+1. [`Automi`{:.filelink}]({{ site.baseurl }}/note/7-pda_note.pdf) a pila

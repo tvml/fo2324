@@ -21,3 +21,5 @@ header: no
 
 1. [`Linguaggi context free`{:.filelink}]({{ site.baseurl }}/lucidi/6-lincf-slides.pdf) 
 
+1. [`Automi a pila`{:.filelink}]({{ site.baseurl }}/lucidi/7-pda-slides.pdf) 
+

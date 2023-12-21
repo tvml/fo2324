@@ -7,10 +7,10 @@ permalink: /quiz/
 header: no
 ---
 
-<!-->## Esami
+## Esami
 
 1. [`Raccolta`{:.filelink}]({{ site.baseurl }}/quiz/prove_esame.pdf) storica prove di esame 
--->
+
 ## Quiz
 
 <!-- 1. Quiz sui [`fondamenti matematici`{:.filelink}]({{ site.baseurl }}/quiz/quiz_fondamenti.pdf) 
@@ -23,11 +23,19 @@ header: no
 
 1. Slide quiz [`pumping lemma linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_pumping_lemma_lr.pdf)
 
-1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf)
-
 1. Slide quiz [`ASF`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_asf.pdf)
 
+1. Slide quiz sulle [`grammatiche context free`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_cfg.pdf)
+
+1. Slide quiz sugli [`automi a pila`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_pda.pdf)
+
+1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf)
+
 1. Quiz sugli [`automi a stati finiti`{:.filelink}]({{ site.baseurl }}/quiz/quiz_asf.pdf)
+
+1. Quiz sui [`linguaggi context free`{:.filelink}]({{ site.baseurl }}/quiz/quiz_cfg.pdf)
+
+1. Quiz sugli [`automi a pila`{:.filelink}]({{ site.baseurl }}/quiz/quiz_pda.pdf)
 
 <!--1. Quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/quiz_regolari.pdf)
 
@@ -35,9 +43,6 @@ header: no
 
 1. Slide quiz sui [`linguaggi regolari`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi-lr.pdf)
 
-1. Slide quiz sulle [`grammatiche context free`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_cfg.pdf)
-
-1. Slide quiz sugli [`automi a pila`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_pda.pdf)
 
 1. Slide quiz sulle [`macchine di Turing`{:.filelink}]({{ site.baseurl }}/quiz/slide_esercizi_tm.pdf)
 -->

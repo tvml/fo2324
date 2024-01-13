@@ -28,5 +28,3 @@ header: no
 * Pumping lemma per i linguaggi context free
 * Automi a pila e linguaggi context free
 * Automi a pila deterministici
-* Ambiguità e sua indecidibilità
-* L'algoritmo CYK
